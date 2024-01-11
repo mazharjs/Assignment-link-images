@@ -1,0 +1,36 @@
+*{
+    margin: 20px;
+}
+.main-heading{
+    background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+h3{
+    background-color: pink;
+    color: black;
+    text-align: center;}
+.image-1{
+    display: block;
+    margin: 0px auto;
+}
+.image-2{
+    display: block;
+    margin: 0px auto;
+
+}
+.image-3{
+    display: block;
+    margin: 0px auto;
+}
+.image-4{
+    display: block;
+    margin: 0px auto;
+}
+.image-5{
+    display: block;
+    margin: 0px auto;
+}
+.background{
+    background-color: #5c5c5c;
+}
